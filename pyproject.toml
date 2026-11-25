@@ -1,0 +1,17 @@
+[project]
+name = "tarea4-ia"
+version = "0.1.0"
+description = "Tarea 4 de Inteligencia Artificial: MLP y CNN sobre Fruits Classification"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.4",
+    "torchvision>=0.19",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "scikit-learn>=1.5",
+    "pillow>=10.0",
+    "ipykernel>=6.29",
+    "nbformat>=5.10",
+    "nbclient>=0.10",
+    "nbconvert>=7.16",
+]
